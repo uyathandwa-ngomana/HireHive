@@ -1,6 +1,6 @@
 # HireHive
 
-## 📌 Description
+##  Description
 HireHive is a job tracking system built with React.
 
 It helps you:
@@ -8,15 +8,15 @@ It helps you:
 - Manage statuses
 - Organize job details
 
-## 🚀 Features
+##  Features
 - Add/edit/delete job entries
 - View list of all jobs
 - Filter by status
 
-## 🛠️ Technologies
+##  Technologies
 - React
 - JavaScript
 - CSS
 
-## 👨‍💻 Author
+##  Author
 Uyathandwa Ngomana
