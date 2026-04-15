@@ -18,5 +18,4 @@ It helps you:
 - JavaScript
 - CSS
 
-##  Author
-Uyathandwa Ngomana
+
